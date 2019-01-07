@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Hey Badger!"
 
 [params]
-  description = "No idea what Ting is... [@Knuckehead"
+  description = "No idea what Ting is... @Knuckehead"
 
 [[menu.main]]
     name = "About"
