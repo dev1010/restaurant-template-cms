@@ -1,9 +1,9 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Cpise it!"
+title = "Drogheda Eats!"
 
 [params]
-  description = "Welcome to the best of Drogheda"
+  description = "Best of Drogheda"
 
 [[menu.main]]
     name = "About"
