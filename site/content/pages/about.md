@@ -4,7 +4,7 @@ title = "About"
 url = "/about"
 +++
 
-## Something about the restaurant goes here
+## List of Drogheda restaurants go here.
 
 ---
 
